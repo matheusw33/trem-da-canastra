@@ -31,6 +31,10 @@ const SecaoAtrativos = styled.section`
         @media (min-width: 1080px){
             width: 200px;
         }
+
+        span{
+            overflow:hidden;
+        }
     }
     
     img{

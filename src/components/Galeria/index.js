@@ -47,8 +47,8 @@ const BoxImg = styled.div`
 const IconFechar = styled.img`
     width:30px;
     position: absolute;
-    top: 15px;
-    right:15px;
+    top: 25px;
+    right:25px;
     cursor:pointer;
 `
 

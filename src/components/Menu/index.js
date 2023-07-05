@@ -35,6 +35,10 @@ const ListaMenu = styled.ul`
     top:0;
     transition: .3s;
     width: 70vw;
+
+    @media (min-width: 720px){
+        width:30%;
+    }
     
     li{
         text-align:center;
