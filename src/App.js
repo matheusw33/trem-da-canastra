@@ -1,23 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
-
+import Menu from "./components/Menu";
+import Banner from "./components/Banner";
+import Atrativos from "./components/Atrativos";
+import Descricao from "./components/Descricao";
+import Roteiros from "./components/Roteiros";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import { useEffect } from "react";
+import Galeria from "./components/Galeria";
+import Contato from "./components/Contato";
+import Footer from './components/Footer';
 function App() {
+  useEffect( ()=> {
+    AOS.init({
+        duration:2000,
+    })
+}, []);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Menu />
+      <Banner/>
+      <Atrativos />
+      <Descricao efeito='fade-top' />
+      <Roteiros efeito='fade-top' />
+      <Galeria efeito='fade-top' />
+      <Contato efeito='fade-top' />
+      <Footer efeito='fade-top' />
     </div>
   );
 }
