@@ -22,7 +22,7 @@ function App() {
       <Atrativos />
       <Descricao efeito='fade-top' />
       <Roteiros efeito='fade-top' />
-      <Galeria efeito='fade-top' />
+      <Galeria />
       <Contato efeito='fade-top' />
       <Footer efeito='fade-top' />
     </div>
