@@ -55,7 +55,7 @@ const Footer = (props) => {
                 <Colunas>
                     <h4>Skills</h4>
                     <ul>
-                        <li>React</li>
+                        <li>React - Em progresso</li>
                         <li>JavaScript</li>
                         <li>SASS</li>
                         <li>Bootstrap</li>
