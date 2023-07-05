@@ -33,7 +33,7 @@ const SecaoAtrativos = styled.section`
         }
 
         span{
-            overflow:hidden;
+            line-height: 1.3;
         }
     }
     
