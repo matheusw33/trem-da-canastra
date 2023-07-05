@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/trem-da-canastra/static/css/main.ca5e11e2.css",
+    "main.js": "/trem-da-canastra/static/js/main.114b1f84.js",
+    "static/media/banner.jpeg": "/trem-da-canastra/static/media/banner.1e3ec56a4490948fc3cb.jpeg",
+    "static/media/Img8.jpeg": "/trem-da-canastra/static/media/Img8.1dadb72ef409cfcf368b.jpeg",
+    "static/media/Img3.jpeg": "/trem-da-canastra/static/media/Img3.3d383945fbeda772b4db.jpeg",
+    "static/media/canastra.jpeg": "/trem-da-canastra/static/media/canastra.77ad1a104d6d6af25ac6.jpeg",
+    "static/media/Img2.jpeg": "/trem-da-canastra/static/media/Img2.4f14bb9cf92053a0f391.jpeg",
+    "static/media/Img1.jpeg": "/trem-da-canastra/static/media/Img1.45e10f73422d83e041db.jpeg",
+    "static/media/Img7.jpeg": "/trem-da-canastra/static/media/Img7.a10ef1d1d51885173761.jpeg",
+    "static/media/Img5.jpeg": "/trem-da-canastra/static/media/Img5.0d0537ba83a7883e84d5.jpeg",
+    "static/media/Img4.jpeg": "/trem-da-canastra/static/media/Img4.69e00f23ae3fd05862ff.jpeg",
+    "static/media/Img6.jpeg": "/trem-da-canastra/static/media/Img6.228fd2e9a922b6376238.jpeg",
+    "static/media/ponto-turistico.svg": "/trem-da-canastra/static/media/ponto-turistico.80b807a6130ecafb84ae3014bd3ed910.svg",
+    "static/media/restaurante.svg": "/trem-da-canastra/static/media/restaurante.95761214355a16597bce4494e9976341.svg",
+    "static/media/whatsapp.svg": "/trem-da-canastra/static/media/whatsapp.3b6581f3d6f1e45e3516413e18026ec9.svg",
+    "static/media/natureza.svg": "/trem-da-canastra/static/media/natureza.0e42b7ffd553fc312b102acfe5e9ced4.svg",
+    "index.html": "/trem-da-canastra/index.html",
+    "static/media/email.svg": "/trem-da-canastra/static/media/email.b3ca0f939c11fc293bcd75283583bcca.svg",
+    "static/media/guia.svg": "/trem-da-canastra/static/media/guia.82b32230c7239c597bc0bcb0aca1b5db.svg",
+    "static/media/waves.svg": "/trem-da-canastra/static/media/waves.a8bfb74419e48ffd8424408b17bbe056.svg",
+    "static/media/fechar-branco.svg": "/trem-da-canastra/static/media/fechar-branco.99b052fa2b9bc1018853cf19d627ee36.svg",
+    "static/media/hamburger-brancoo.svg": "/trem-da-canastra/static/media/hamburger-brancoo.a921b555c9a515590d905934a1860e5a.svg",
+    "static/media/fechar-preto.svg": "/trem-da-canastra/static/media/fechar-preto.4c7a149947106ea6deff0517928c51c4.svg",
+    "main.ca5e11e2.css.map": "/trem-da-canastra/static/css/main.ca5e11e2.css.map",
+    "main.114b1f84.js.map": "/trem-da-canastra/static/js/main.114b1f84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca5e11e2.css",
+    "static/js/main.114b1f84.js"
+  ]
+}
