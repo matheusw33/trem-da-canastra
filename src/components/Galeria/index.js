@@ -12,6 +12,11 @@ const GaleriaConteirner = styled.section`
         display:flex;
         flex-wrap:wrap;
     }
+
+    @media screen and (min-width: 1024px){
+            padding-left: calc((100% - 1400px)/2);
+            padding-right: calc((100% - 1400px)/2);
+        }
 `
 const ImgContainer = styled.div`
     width: 50%;

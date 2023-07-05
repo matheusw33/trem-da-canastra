@@ -28,7 +28,7 @@ const SecaoAtrativos = styled.section`
         border-radius: 10px;
         gap:10px;
 
-        @media (min-width: 1080px){
+        @media screen and (min-width: 1080px){
             width: 200px;
         }
 

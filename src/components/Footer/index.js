@@ -5,9 +5,6 @@ const Rodape = styled.footer`
     background-color: #000;
     color:#FFF;
     Padding: 2em;
-    display:flex;
-    flex-wrap: wrap;
-    gap: 2em;
     }
 `   
 const Colunas = styled.div`
@@ -42,7 +39,7 @@ const Colunas = styled.div`
 const Footer = (props) => {
     return(
         <Rodape>
-            <Container data-aos={props.efeito} display='flex' wrap='wrap' gap='2em'>
+            <Container data-aos={props.efeito} alinhamento="space-between" display='flex' wrap='wrap' gap='2em'>
                 <Colunas>
                     <h4>Matheus Cruz</h4>
                     <ul>
